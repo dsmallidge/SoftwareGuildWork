@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>TinyMCE</title>
+
+        <!-- This is how you call TinyMCE in your web page -->
+
+  	<script src="//cdn.tinymce.com/4/tinymce.min.js"></script> 
+  	<script>tinymce.init({ selector:'textarea', 
+			       remove_linebreaks:true });</script>
+    </head>
+    <body>
+	<form method="POST" action="https://httpbin.org/post">
+ 
+	<p>
+ 
+	<textarea name="test">
+
+	<h2>Blog Post 1</h2><p><strong>It's been a great month at Mike's Tires! Our new favorite brand is Hankook. You'll love 'em!</strong>
+	</p><p><strong>Here's Why:</strong></p><ul><li><strong>they have a funny name</strong></li><li><strong>they're great tires</strong>
+	</li><li><strong>they're not too cheap but not too pricey</strong></li></ul><h3><em><strong>Happy Driving!</strong></em></h3>
+
+	</textarea>
+
+	<input type="submit" value="submit">Submit</input>
+	</form>
+    </body>
+</html>

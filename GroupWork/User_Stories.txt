@@ -1,0 +1,27 @@
+Paths Of Glory - "Mikes Tires Blog" Project
+
+User Stories
+
+a Visitor can View the Home Page			assigned to 	Bob
+
+a User can View the Home Page				assigned to	Bob
+
+a User can View the Admin Home Page			assigned to	Glen
+
+a User can Create a New Blog Post			assigned to	Dan
+
+an Admin can View the Home Page				assigned to	Bob
+
+an Admin can View the Admin Home Page			assigned to	Glen
+
+an Admin can Create a New Blog Post			assigned to	Dan
+
+an Admin can Create a New Article (Static Page)		assigned to	Bob
+
+an Admin can Approve Posts				assigned to	Dan
+
+an Admin can Edit Posts					assigned to	Glen
+
+an Admin can Display Users				assigned to	Bob
+an Admin can Add a User					assigned to	Bob
+an Admin can Delete a User				assigned to	Bob

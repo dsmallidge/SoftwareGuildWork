@@ -1,0 +1,18 @@
+An image of a tires components: http://olympictires.com/images/tires123.gif
+another picture: http://s.hswstatic.com/gif/tire-sell-by-dates-1.jpg
+another: http://roa.h-cdn.co/assets/14/51/320x320/square_nrm_1418749741-image117638_c.jpg
+these can be used for adding pics to blogs.
+Here is a pile of tires: http://bestwheelsadvice.com/wp-content/uploads/2014/12/car-tires-wholesale-prices.jpg
+
+4/19 meeting w/ Mike
+- would like a way to see if there is a post to be approved if we can get to it.
+- edit page table would have a date range of posts to search for to edit.
+He said everything looks good.
+
+4/29/16 meeting with Mike.
+- He does not like the yellowish brick background theme.
+- Also remove validation on the end date of blog entry.
+- Add blogs to assure site lists more than 5 on right column on home screen
+- Seems happy with the site so far as he said it is 'nice'.
+ 
+
